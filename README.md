@@ -29,13 +29,14 @@ Health Challenge Tracker is a web application for tracking and exploring workout
 2. View detailed workout progress for the selected user.
 
 HOME PAGE
-![image](https://github.com/user-attachments/assets/2547f6b8-d85a-46bb-9919-a6f95ca767b2)
+![image](https://github.com/user-attachments/assets/fb8cdefe-5e6a-4bbe-a355-55c31311141b)
 
 EXPLORE PAGE
-![image](https://github.com/user-attachments/assets/e8bc7ebe-64f9-4957-9a9a-20768dc05b59)
+![image](https://github.com/user-attachments/assets/852c5485-5518-4ad5-88d8-e41b72f12350)
 
 ADD WORKOUT
-![image](https://github.com/user-attachments/assets/9a3eba01-f334-43f5-a3eb-55caad2a0c8c)
+![image](https://github.com/user-attachments/assets/3b05939d-9a74-45e5-9acf-14a82304ff61)
+
 
 
 
